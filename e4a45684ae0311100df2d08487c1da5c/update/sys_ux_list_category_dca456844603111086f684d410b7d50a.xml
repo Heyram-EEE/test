@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="App1 - Workspace - Admin">90a45684d70311102524b328c16dcb0b</configuration>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dca456844603111086f684d410b7d50a</sys_id>
+        <sys_name>Document Approval Admin</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_ux_list_category_dca456844603111086f684d410b7d50a</sys_update_name>
+        <title>Document Approval Admin</title>
+    </sys_ux_list_category>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Approve document">5ca45684270311103e7696eee119f231</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Approve</label>
+        <location>footer</location>
+        <name>Approve</name>
+        <order>30</order>
+        <parent>50a45684a1031110271a41e33e0eca30</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:06</sys_created_on>
+        <sys_id>dca456843b0311104566c349f0c0c12f</sys_id>
+        <sys_name>Approve</sys_name>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_sg_button_instance_dca456843b0311104566c349f0c0c12f</sys_update_name>
+        <table>x_933623_app1_document_approver</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=dca456843b0311104566c349f0c0c12f"/>
+</record_update>

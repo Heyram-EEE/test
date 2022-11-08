@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint>Managing document approvals</hint>
+        <name/>
+        <order>100</order>
+        <roles>x_933623_app1.admin,x_933623_app1.approver,x_933623_app1.submitter</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d0a456842f031110117a08d338bb0754</sys_id>
+        <sys_name>App1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_app_application_d0a456842f031110117a08d338bb0754</sys_update_name>
+        <title>App1</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

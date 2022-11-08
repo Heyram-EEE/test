@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description>Change in state of document approval table</description>
+        <event_name>x_933623_app1.notification_event</event_name>
+        <fired_by>Single Stage Approval Workflow for Document Approval</fired_by>
+        <queue/>
+        <suffix>notification_event</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:15</sys_created_on>
+        <sys_id>54a45684220311103737f0e1f864a454</sys_id>
+        <sys_name>x_933623_app1.notification_event</sys_name>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sysevent_register_54a45684220311103737f0e1f864a454</sys_update_name>
+        <table/>
+    </sysevent_register>
+</record_update>

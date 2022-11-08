@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_genius_result_configuration_m2m">
+    <ais_search_profile_ais_genius_result_configuration_m2m action="INSERT_OR_UPDATE">
+        <genius_result_configuration display_value="Document Approval Genius Result">50a4568481031110b6f023c5c474e25b</genius_result_configuration>
+        <order>100</order>
+        <profile display_value="Document Approval Search Profile">10a4568451031110d22abd31ec64865b</profile>
+        <sys_class_name>ais_search_profile_ais_genius_result_configuration_m2m</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:14</sys_created_on>
+        <sys_id>9ca456847d0311104f77b4c0b792255a</sys_id>
+        <sys_name>Document Approval Genius Result.Document Approval Search Profile</sys_name>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>ais_search_profile_ais_genius_result_configuration_m2m_9ca456847d0311104f77b4c0b792255a</sys_update_name>
+    </ais_search_profile_ais_genius_result_configuration_m2m>
+</record_update>

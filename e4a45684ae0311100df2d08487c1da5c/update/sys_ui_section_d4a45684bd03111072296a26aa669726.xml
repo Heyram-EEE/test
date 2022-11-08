@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d4a45684bd03111072296a26aa669726" sys_domain="global" table="x_933623_app1_document_approval" version="3" view="portal">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:15</sys_created_on>
+            <sys_id>94a456845903111003369e8218381426</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_933623_app1_document_approval" sys_domain="global" view="32a5047121120110a866589604c20d3e">d4a45684bd03111072296a26aa669726</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-11-04 05:52:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_category</element>
+            <position>1</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:15</sys_created_on>
+            <sys_id>58a45684bb0311107c4d240372ab3e26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_933623_app1_document_approval" sys_domain="global" view="32a5047121120110a866589604c20d3e">d4a45684bd03111072296a26aa669726</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-11-04 05:52:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>2</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:15</sys_created_on>
+            <sys_id>d0a4568442031110ab9781c170481726</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_933623_app1_document_approval" sys_domain="global" view="32a5047121120110a866589604c20d3e">d4a45684bd03111072296a26aa669726</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-11-04 05:52:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_933623_app1_document_approval</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4a45684bd03111072296a26aa669726</sys_id>
+            <sys_name>x_933623_app1_document_approval</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+            <sys_update_name>sys_ui_section_d4a45684bd03111072296a26aa669726</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Portal" name="portal">32a5047121120110a866589604c20d3e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

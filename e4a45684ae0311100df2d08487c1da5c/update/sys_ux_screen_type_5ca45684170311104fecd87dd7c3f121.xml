@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>doc_all</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:04</sys_created_on>
+        <sys_id>5ca45684170311104fecd87dd7c3f121</sys_id>
+        <sys_name>doc_all</sys_name>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_ux_screen_type_5ca45684170311104fecd87dd7c3f121</sys_update_name>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=5ca45684170311104fecd87dd7c3f121"/>
+</record_update>

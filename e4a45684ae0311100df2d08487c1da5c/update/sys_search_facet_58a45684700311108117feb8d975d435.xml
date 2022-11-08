@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_facet">
+    <sys_search_facet action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_facet_name>x_933623_app1_document_approval.status</ais_facet_name>
+        <label>Status</label>
+        <name>Status</name>
+        <option_limit>10</option_limit>
+        <order>20</order>
+        <search_context_config display_value="Document Approval Portal Search Configuration">1ca45684ea03111012c39969afd35135</search_context_config>
+        <sys_class_name>sys_search_facet</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:13</sys_created_on>
+        <sys_id>58a45684700311108117feb8d975d435</sys_id>
+        <sys_name>x_933623_app1_document_approval.status</sys_name>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_search_facet_58a45684700311108117feb8d975d435</sys_update_name>
+    </sys_search_facet>
+</record_update>

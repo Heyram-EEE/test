@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Ribbon Config ID</description>
+        <name>ribbonConfigId</name>
+        <page display_value="App1 Workspace">d4a456848d0311108291aeb7162dc75b</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>d4a456841503111085f2a7b7bbc45409</sys_id>
+        <sys_name>ribbonConfigId</sys_name>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_ux_page_property_d4a456841503111085f2a7b7bbc45409</sys_update_name>
+        <type>string</type>
+        <unique_name>x_933623_app1.d4a456848d0311108291aeb7162dc75b.root.ribbonConfigId</unique_name>
+        <value>18a456843d031110fe45c981b1712b09</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=d4a456841503111085f2a7b7bbc45409"/>
+</record_update>

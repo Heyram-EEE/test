@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Document Admin">98a45684ce031110884cabb1d705c124</applicability>
+        <order>100</order>
+        <screen display_value="Home Admin">50a45684e4031110692f2f8b0750a823</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:14</sys_created_on>
+        <sys_id>98a4568481031110a044a95a76c48922</sys_id>
+        <sys_name/>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_98a4568481031110a044a95a76c48922</sys_update_name>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

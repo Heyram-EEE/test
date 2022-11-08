@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="Document Approvals Search">54a456844b031110996afb3569300458</search_context_config>
+        <source display_value="Document Approval">1ca456841903111012f45ed34e6c7257</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:08</sys_created_on>
+        <sys_id>9ca4568451031110487aeaf55891b157</sys_id>
+        <sys_name/>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_9ca4568451031110487aeaf55891b157</sys_update_name>
+    </m2m_search_context_config_search_source>
+</record_update>

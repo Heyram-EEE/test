@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_933623_app1.Document Submitter</api_name>
+        <description>Role for document submitters</description>
+        <name>Document Submitter</name>
+        <roles name="x_933623_app1.submitter">98a45684760311109036d4bb367d4a5b</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>90a4568440031110d55dcf56739b9424</sys_id>
+        <sys_name>Document Submitter</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_ux_applicability_90a4568440031110d55dcf56739b9424</sys_update_name>
+    </sys_ux_applicability>
+</record_update>

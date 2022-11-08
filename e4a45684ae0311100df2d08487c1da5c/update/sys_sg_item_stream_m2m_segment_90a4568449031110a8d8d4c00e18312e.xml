@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Approvals this year Item Stream">58a4568439031110da58ec838fda2b2e</item_stream>
+        <segment display_value="Item Stream Segment">1ca456848f0311100c35569f285c3f2d</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:12</sys_created_on>
+        <sys_id>90a4568449031110a8d8d4c00e18312e</sys_id>
+        <sys_name/>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_90a4568449031110a8d8d4c00e18312e</sys_update_name>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

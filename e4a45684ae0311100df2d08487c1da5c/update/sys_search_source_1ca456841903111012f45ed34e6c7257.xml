@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <condition/>
+        <group/>
+        <name>Document Approval</name>
+        <roles/>
+        <source_table>x_933623_app1_document_approver</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:04</sys_created_on>
+        <sys_id>1ca456841903111012f45ed34e6c7257</sys_id>
+        <sys_name>Document Approval</sys_name>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_search_source_1ca456841903111012f45ed34e6c7257</sys_update_name>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=1ca456841903111012f45ed34e6c7257"/>
+</record_update>

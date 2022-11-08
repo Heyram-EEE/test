@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_06_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:06</sys_created_on>
+        <sys_id>1ca45684b8031110941ca876f80d532b</sys_id>
+        <sys_name>text_06_element</sys_name>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_1ca45684b8031110941ca876f80d532b</sys_update_name>
+        <view_config display_value="Document Approvals View Config">50a45684550311105228aed61fafde2f</view_config>
+        <view_template_slot display_value="text_06">9ca4568434031110d3d97942227c252b</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

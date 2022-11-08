@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Navigate to document approvals this month">d4a45684fc0311104da49f34e8724b30</jump_to_screen>
+        <name>Approvals This Month</name>
+        <report display_value="Approvals This Month">d0a456849c03111081b52143f811a436</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:05</sys_created_on>
+        <sys_id>1ca4568455031110aaf34d3cb6fd5b2f</sys_id>
+        <sys_name>Approvals This Month</sys_name>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_sg_chart_1ca4568455031110aaf34d3cb6fd5b2f</sys_update_name>
+        <title/>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

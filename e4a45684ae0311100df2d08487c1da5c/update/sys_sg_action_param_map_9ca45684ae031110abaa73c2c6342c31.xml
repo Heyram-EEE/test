@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Reject document">dca4568436031110030b63f427f7da31</button>
+        <item_parameter display_value="comments">1ca456841c031110805d7d697f6dc731</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:13</sys_created_on>
+        <sys_id>9ca45684ae031110abaa73c2c6342c31</sys_id>
+        <sys_name>1ca456841c031110805d7d697f6dc731</sys_name>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_9ca45684ae031110abaa73c2c6342c31</sys_update_name>
+        <ui_parameter display_value="Reason for rejecting">18a45684be031110c50c2e6e91116031</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

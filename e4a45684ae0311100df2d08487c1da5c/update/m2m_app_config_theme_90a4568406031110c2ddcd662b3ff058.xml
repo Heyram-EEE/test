@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>90a4568406031110c2ddcd662b3ff058</sys_id>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>m2m_app_config_theme_90a4568406031110c2ddcd662b3ff058</sys_update_name>
+        <theme display_value="Doc Approval Theme">50a45684db031110cf97cb9e49e82358</theme>
+        <ux_app_configuration display_value="Doc Approval Portal App Config">58a45684830311100088ccd91c52715b</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_933623_app1.submitter" name="x_933623_app1.submitter">98a45684760311109036d4bb367d4a5b</contains>
+        <role display_value="x_933623_app1.approver" name="x_933623_app1.approver">1ca456843c03111017d6f939e08a855b</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:07</sys_created_on>
+        <sys_id>98a45684ad031110278b12b3b7b6f925</sys_id>
+        <sys_name/>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_user_role_contains_98a45684ad031110278b12b3b7b6f925</sys_update_name>
+    </sys_user_role_contains>
+</record_update>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="10a456849e031110f9420d914e89ca2a" sys_domain="global" table="x_933623_app1_document_approver" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>document.name</element>
+            <position>0</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:10</sys_created_on>
+            <sys_id>dca45684650311107558ce2d1bb62b28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_933623_app1_document_approver" sys_domain="global" view="5658007121920110a866589604c20d32">10a456849e031110f9420d914e89ca2a</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-11-04 05:52:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:10</sys_created_on>
+            <sys_id>90a456847403111090c667795eda2e29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_933623_app1_document_approver" sys_domain="global" view="5658007121920110a866589604c20d32">10a456849e031110f9420d914e89ca2a</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-11-04 05:52:10</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>document.submitter</element>
+            <position>2</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:10</sys_created_on>
+            <sys_id>d0a456843e03111069af5fe5e3917e29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_933623_app1_document_approver" sys_domain="global" view="5658007121920110a866589604c20d32">10a456849e031110f9420d914e89ca2a</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-11-04 05:52:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>3</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:10</sys_created_on>
+            <sys_id>9ca45684c90311106464a94091a19a28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_933623_app1_document_approver" sys_domain="global" view="5658007121920110a866589604c20d32">10a456849e031110f9420d914e89ca2a</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-11-04 05:52:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:10</sys_created_on>
+            <sys_id>10a45684e6031110206cb4a33bfe0329</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_933623_app1_document_approver" sys_domain="global" view="5658007121920110a866589604c20d32">10a456849e031110f9420d914e89ca2a</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-11-04 05:52:10</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>document.approval_category</element>
+            <position>5</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:10</sys_created_on>
+            <sys_id>54a456847f0311104cb5d704ad0a2929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_933623_app1_document_approver" sys_domain="global" view="5658007121920110a866589604c20d32">10a456849e031110f9420d914e89ca2a</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-11-04 05:52:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>document.sys_created_on</element>
+            <position>6</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:10</sys_created_on>
+            <sys_id>1ca456848503111015ed7dfc69101428</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_933623_app1_document_approver" sys_domain="global" view="5658007121920110a866589604c20d32">10a456849e031110f9420d914e89ca2a</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-11-04 05:52:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:10</sys_created_on>
+            <sys_id>d4a45684cb031110bf9a2c25b0eb5128</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_933623_app1_document_approver" sys_domain="global" view="5658007121920110a866589604c20d32">10a456849e031110f9420d914e89ca2a</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-11-04 05:52:10</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>document.description</element>
+            <position>8</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:10</sys_created_on>
+            <sys_id>98a45684bf031110edad5b2605d6f228</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_933623_app1_document_approver" sys_domain="global" view="5658007121920110a866589604c20d32">10a456849e031110f9420d914e89ca2a</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-11-04 05:52:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>9</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:10</sys_created_on>
+            <sys_id>10a456843903111024ebb6d990c57f28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_933623_app1_document_approver" sys_domain="global" view="5658007121920110a866589604c20d32">10a456849e031110f9420d914e89ca2a</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-11-04 05:52:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>10</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:10</sys_created_on>
+            <sys_id>54a4568423031110274f41cb0ff43d28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="">dca45684de031110078f9111b3e32027</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_933623_app1_document_approver" sys_domain="global" view="5658007121920110a866589604c20d32">10a456849e031110f9420d914e89ca2a</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-11-04 05:52:10</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_933623_app1_document_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10a456849e031110f9420d914e89ca2a</sys_id>
+            <sys_name>x_933623_app1_document_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+            <sys_update_name>sys_ui_section_10a456849e031110f9420d914e89ca2a</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">5658007121920110a866589604c20d32</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

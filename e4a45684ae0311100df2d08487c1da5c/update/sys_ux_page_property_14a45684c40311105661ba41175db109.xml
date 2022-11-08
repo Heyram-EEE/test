@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Form Header Config</description>
+        <name>headerConfigId</name>
+        <page display_value="App1 Workspace">d4a456848d0311108291aeb7162dc75b</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>14a45684c40311105661ba41175db109</sys_id>
+        <sys_name>headerConfigId</sys_name>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_ux_page_property_14a45684c40311105661ba41175db109</sys_update_name>
+        <type>string</type>
+        <unique_name>x_933623_app1.d4a456848d0311108291aeb7162dc75b.root.headerConfigId</unique_name>
+        <value>d4a45684f5031110211aa6045d59f80b</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=14a45684c40311105661ba41175db109"/>
+</record_update>

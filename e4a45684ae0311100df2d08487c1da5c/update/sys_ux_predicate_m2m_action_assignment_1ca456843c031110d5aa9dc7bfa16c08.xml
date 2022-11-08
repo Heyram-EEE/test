@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="view_doc">d0a45684e903111034cef06b3ca4c652</declarative_action_assignment>
+        <predicate display_value="Document Approval Genius Result">94a456841e031110c51eff5f3ca2670d</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:18</sys_created_on>
+        <sys_id>1ca456843c031110d5aa9dc7bfa16c08</sys_id>
+        <sys_name/>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_1ca456843c031110d5aa9dc7bfa16c08</sys_update_name>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

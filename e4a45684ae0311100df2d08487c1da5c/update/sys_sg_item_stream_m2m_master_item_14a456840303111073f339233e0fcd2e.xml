@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="New Document Aprpovals Item Stream">5ca45684560311101f07e9c586fa962e</item_stream>
+        <master_item display_value="New Document Aprpovals Main Item">50a4568448031110454140c418fff82e</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-11-04 05:52:02</sys_created_on>
+        <sys_id>14a456840303111073f339233e0fcd2e</sys_id>
+        <sys_name/>
+        <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_14a456840303111073f339233e0fcd2e</sys_update_name>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

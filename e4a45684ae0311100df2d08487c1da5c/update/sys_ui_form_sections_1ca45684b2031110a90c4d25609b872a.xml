@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="1ca45684b2031110a90c4d25609b872a" sys_domain="global" table="x_933623_app1_document_approver" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90a45684990311106bde4a47a39dae2a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_933623_app1_document_approver" name="x_933623_app1_document_approver" sys_domain="global" view="5658007121920110a866589604c20d32">1ca45684b2031110a90c4d25609b872a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_933623_app1_document_approver" sys_domain="global" view="5658007121920110a866589604c20d32">10a456849e031110f9420d914e89ca2a</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-11-04 05:52:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_933623_app1_document_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-11-04 05:52:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ca45684b2031110a90c4d25609b872a</sys_id>
+            <sys_name>x_933623_app1_document_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="App1" source="x_933623_app1">e4a45684ae0311100df2d08487c1da5c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="App1">e4a45684ae0311100df2d08487c1da5c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1ca45684b2031110a90c4d25609b872a</sys_update_name>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">5658007121920110a866589604c20d32</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
